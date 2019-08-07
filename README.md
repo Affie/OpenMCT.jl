@@ -16,4 +16,4 @@ The main purpuse of this project.
 * To use/integrate existing julia javascript/web based apps
 
 Something like this should be possible
-![example]("docs/assets/OpenMCT_example.png")
+![example](docs/assets/OpenMCT_example.png)
